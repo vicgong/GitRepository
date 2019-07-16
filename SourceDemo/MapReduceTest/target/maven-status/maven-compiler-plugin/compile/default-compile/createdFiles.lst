@@ -1,7 +1,7 @@
-com\vicgong\MrAPI\WordCount$IntSumReducer.class
 com\vicgong\MrAPI\ConfDemo.class
+com\vicgong\MrAPI\WordCount$TokenizerMapper.class
+com\vicgong\MrAPI\WordCount$IntSumReducer.class
 com\vicgong\MrAPI\MinimalMapReduce.class
 com\vicgong\MrAPI\WordCount.class
 com\vicgong\MrAPI\WcReducer.class
 com\vicgong\MrAPI\WcMapper.class
-com\vicgong\MrAPI\WordCount$TokenizerMapper.class

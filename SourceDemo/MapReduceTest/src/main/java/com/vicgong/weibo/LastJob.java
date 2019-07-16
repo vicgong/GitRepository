@@ -135,9 +135,9 @@ public class LastJob extends Configured implements Tool {
         Job job = Job.getInstance(config);
         job.setJarByClass(LastJob.class);
         job.setJobName("Weibo-LastJob");
-        config.set("FirstJobOutput", "file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output1");
-        config.set("SecondJobOutput", "file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output2");
-        config.set("LastJobOutput", "file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output3");
+        //config.set("FirstJobOutput", "file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output1");
+        //config.set("SecondJobOutput", "file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output2");
+        //config.set("LastJobOutput", "file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output3");
         //把微博总数加载到内存
         job.addCacheFile(new Path(config.get("FirstJobOutput") + File.separator + "part-r-00003").toUri());
         //把df(某个词条在多少文章中出现过)加载到内存

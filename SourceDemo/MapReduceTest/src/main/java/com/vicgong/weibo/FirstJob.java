@@ -97,7 +97,7 @@ public class FirstJob extends Configured implements Tool {
             System.exit(-1);
         }
         Configuration config = getConf();
-        config.set("FirstJobOutput","file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output1");
+        //config.set("FirstJobOutput","file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output1");
         FileSystem fs = FileSystem.get(config);
         Job job = Job.getInstance(config);
         job.setJarByClass(FirstJob.class);

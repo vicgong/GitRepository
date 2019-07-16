@@ -66,8 +66,8 @@ public class SecondJob extends Configured implements Tool {
             System.exit(-1);
         }
         Configuration config = getConf();
-        config.set("FirstJobOutput", "file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output1");
-        config.set("SecondJobOutput", "file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output2");
+        //config.set("FirstJobOutput", "file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output1");
+        //config.set("SecondJobOutput", "file:///C:/Users/龚明达/IdeaProjects/MapReduceTest/output2");
         Job job = Job.getInstance(config);
         job.setJarByClass(SecondJob.class);
         job.setJobName("Weibo-SecondJob");
