@@ -14,20 +14,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/EmployeeDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="256" lean-forward="true" selection-start-line="256" selection-end-line="256" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,9 +63,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,9 +174,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14925373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -277,16 +263,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/EmployeeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/DeleteDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
@@ -348,17 +324,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/batchClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-          <folding>
-            <element signature="e#785#1452#0" expanded="true" />
-            <element signature="e#1451#1452#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/batchClient.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/ScanDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -381,8 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/EmployeeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="256" lean-forward="true" selection-start-line="256" selection-end-line="256" />
+        <state relative-caret-position="1988">
+          <caret line="263" column="51" lean-forward="true" selection-start-line="263" selection-start-column="51" selection-end-line="263" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -97,63 +97,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vicgong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vicgong" type="462c0819:PsiDirectoryNode" />
-              <item name="weibo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MapReduceTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,7 +245,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16257995" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1641791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -516,16 +461,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/temperature/MaxTemptMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="35" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/temperature/MaxTemptMapper.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/MrAPI/WordCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -533,13 +469,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/temperature/KeyComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -573,15 +502,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/part-r-00002">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/part-r-00001">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/part-r-00000">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/output/part-r-00002" />
+    <entry file="file://$PROJECT_DIR$/output/part-r-00001" />
+    <entry file="file://$PROJECT_DIR$/output/part-r-00000" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vicgong/temperature/IntPair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="564">
@@ -643,26 +566,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output1/part-r-00003">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output1/part-r-00002">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="47" column="21" selection-start-line="47" selection-end-line="47" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output1/part-r-00000">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output2/part-r-00000">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/output1/part-r-00003" />
+    <entry file="file://$PROJECT_DIR$/output1/part-r-00002" />
+    <entry file="file://$PROJECT_DIR$/output1/part-r-00000" />
+    <entry file="file://$PROJECT_DIR$/output2/part-r-00000" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.7.3/hadoop-mapreduce-client-core-2.7.3.jar!/org/apache/hadoop/mapreduce/Job.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
